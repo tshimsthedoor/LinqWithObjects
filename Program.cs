@@ -16,6 +16,7 @@ namespace LinqWithObjects
                 "Jim",
                 "Dwight",
                 "Angela",
+                "Pengani",
                 "Ida",
                 "Shulamite",
                 "Grace",
@@ -24,7 +25,8 @@ namespace LinqWithObjects
            // var query = names.Where(new Func<string, bool>(NameLongerThanFour));
            //var query = names.Where(NameLongerThanFour);
            var query = names.Where(name => name.Length > 4)
-                            .OrderBy(name => name.Length);
+                            .OrderBy(name => name.Length)
+                            .ThenBy(name => name);
             foreach (string item in query)
             {
                 WriteLine(item);
