@@ -24,7 +24,7 @@ namespace LinqWithObjects
            // var query = names.Where(new Func<string, bool>(NameLongerThanFour));
            //var query = names.Where(NameLongerThanFour);
            var query = names.Where(name => name.Length > 4)
-                            .OrderBy(name.Length);
+                            .OrderBy(name => name.Length);
             foreach (string item in query)
             {
                 WriteLine(item);
