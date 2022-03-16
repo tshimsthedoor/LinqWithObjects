@@ -1,0 +1,16 @@
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.exe
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.deps.json
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.runtimeconfig.json
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.runtimeconfig.dev.json
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\ref\LinqWithObjects.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\bin\Debug\net5.0\LinqWithObjects.pdb
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.csprojAssemblyReference.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.AssemblyInfo.cs
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\ref\LinqWithObjects.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.pdb
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter12\LinqWithObjects\obj\Debug\net5.0\LinqWithObjects.genruntimeconfig.cache

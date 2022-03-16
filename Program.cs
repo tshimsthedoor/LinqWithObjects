@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using static System.Console;
 
 namespace LinqWithObjects
 {
@@ -20,11 +21,21 @@ namespace LinqWithObjects
                 "Grace",
                 "Megane"
             };
-            var query = names.Where
+            var query = names.Where(new Func<string, bool>(NameLongerThanFour));
+            foreach (string item in query)
+            {
+                WriteLine(item);
+            }
+        }
+
+        static bool NameLongerThanFour(string name)
+        {
+            return name.Length > 4;
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Good people let call the list of name longer than 4 character");
+            LinqWithArrayOfStrings();
         }
     }
 }
